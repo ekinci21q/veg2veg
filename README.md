@@ -42,16 +42,6 @@ Welcome to Veg2Veg - your premium vegan wholesale portal!
 ## Copyright
 © 2026 Veg2Veg. All rights reserved.
 
-
-**Key Features to Test:**
-1. Login with demo credentials
-2. Browse product catalog (data loaded from JSON)
-3. Add items to cart
-4. Place an order (stored locally, no backend API)
-5. View order history
-6. Test reorder functionality
-7. Navigate to profile and sourcing request screens
-
 ---
 
 ## Localization
@@ -67,5 +57,3 @@ Welcome to Veg2Veg - your premium vegan wholesale portal!
 
 ---
 
-**Prepared for App Store submission**  
-*Review and update URLs before submission*
